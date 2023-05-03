@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hrac
+comment0.text=\r\n\ Trieda\ hr\u00E1\u010D,\ ktor\u00E1\ vytvor\u00ED\ nov\u00FA\ dosku\ pre\ hr\u00E1\u010Da.\r\n\ \r\n\ @author\ Patrik\ Pavl\u00EDk\ \r\n\ @version\ 1.57.22\r\n
+comment1.params=
+comment1.target=Hrac()
+comment1.text=\r\n\ Vytvor\u00ED\ nov\u00FA\ dosku\ pre\ hr\u00E1\u010Da\ s\ preddefinovanou\ poz\u00EDciou\ a\ farbou.\r\n
+comment2.params=smer
+comment2.target=void\ pohyb(boolean)
+comment2.text=\r\n\ Nastavenie\ smeru\ pohybu\ dosky\ hr\u00E1\u010Da\ v\u013Eavo\ a\ vpravo.\r\n\ @param\ smer\ ur\u010Duje,\ \u010Di\ sa\ m\u00E1\ doska\ pohybova\u0165\ v\u013Eavo\ alebo\ vpravo.\r\n
+comment3.params=
+comment3.target=Doska\ getDoska()
+comment3.text=\r\n\ Vr\u00E1ti\ objekt\ triedy\ Doska.\r\n\r\n
+numComments=4

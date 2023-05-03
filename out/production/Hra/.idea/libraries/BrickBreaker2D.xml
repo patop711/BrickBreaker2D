@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BrickBreaker2D">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BrickBreaker2D.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

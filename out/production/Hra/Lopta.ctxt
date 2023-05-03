@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lopta
+comment0.text=\r\n\ Trieda\ lopta,\ ktor\u00E1\ vytvor\u00ED\ nov\u00FA\ loptu\ s\ ktorou\ je\ mo\u017En\u00E9\ pohybova\u0165.\r\n\ \r\n\ @author\ Patrik\ Pavl\u00EDk\ \r\n\ @version\ 1.57.22\r\n
+comment1.params=
+comment1.target=Lopta()
+comment1.text=\r\n\ Vytvor\u00ED\ nov\u00FA\ loptu\ s\ preddefinovanou\ poz\u00EDciou,\ velkos\u0165ou\ a\ farbou.\r\n
+comment2.params=
+comment2.target=void\ pohyb()
+comment2.text=\r\n\ Nastavenie\ smeru\ pohybu\ lopty.\r\n
+comment3.params=
+comment3.target=Doska\ vratLoptu()
+comment3.text=\r\n\ Vratenie\ objektu\ triedy\ Doska.\r\n\ \r\n
+comment4.params=
+comment4.target=void\ setSmerY()
+comment4.text=\r\n\ Nastavenie\ smeru\ Y\ pre\ loptu.\r\n\ \r\n
+comment5.params=
+comment5.target=int\ getPravyDolnyY()
+comment5.text=\r\n\ Vr\u00E1ti\ poz\u00EDciu\ prav\u00E9ho\ doln\u00E9ho\ Y\ lopty.\r\n\r\n
+numComments=6

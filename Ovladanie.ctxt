@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ovladanie
+comment0.text=\r\n\ Trieda\ ovl\u00E1danie,\ s\ ktorou\ m\u00F4\u017Ee\ pou\u017E\u00EDate\u013E\ pohybova\u0165\ s\ objektamy.\r\n\ \r\n\ @author\ Patrik\ Pavl\u00EDk\ \r\n\ @version\ 1.57.22\r\n
+comment1.params=riadky\ stlpce
+comment1.target=Ovladanie(int,\ int)
+comment1.text=\r\n\ Vytvor\u00ED\ nov\u00FA\ in\u0161tanciu\ hry\ s\ dan\u00FDmi\ riadkami\ a\ st\u013Apcami\ a\ nov\u00FA\ in\u0161tanciu\ triedy\ Manazer.\r\n\ Manazer\ bude\ spravova\u0165\ tento\ objekt\ a\ spust\u00ED\ sa\ hlavn\u00FD\ loop\ hry\ s\ po\u010Dtom\ kociek\ v\ hre.\r\n\ \r\n\ @param\ riadky\ vyjadruje\ po\u010Det\ riadkov\r\n\ @param\ stlpce\ vyjadruje\ po\u010Det\ st\u013Apcov\r\n
+comment2.params=
+comment2.target=void\ posunVlavo()
+comment2.text=\r\n\ Posunie\ objekt\ v\u013Eavo.\r\n\ Vol\u00E1\ met\u00F3du\ ovladanie\ triedy\ Hra\ s\ argumentom\ false\ a\ posunie\ dosku\ vlavo.\r\n
+comment3.params=
+comment3.target=void\ posunVpravo()
+comment3.text=\r\n\ Posunie\ objekt\ vpravo.\r\n\ Vol\u00E1\ met\u00F3du\ ovladanie\ triedy\ Hra\ s\ argumentom\ true\ a\ posunie\ dosku\ vpravo.\r\n
+numComments=4
